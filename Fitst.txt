@@ -5,3 +5,5 @@ today i learn about git
 My Name is Sheraz Khan
 
 How are your
+
+this new commit for smartgit

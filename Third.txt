@@ -1,0 +1,1 @@
+This new third.txt for smartgit
